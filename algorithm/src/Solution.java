@@ -70,7 +70,7 @@ class Solution {
                 return s1.charAt(i) - s2.charAt(i);
             }
         }//a
-        return 0;
+        return 0;//a
     }
 
     public static void main(String[] args) {
